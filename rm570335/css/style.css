@@ -1,9 +1,13 @@
 /* TEXTO */
+html{
+    font-size: 62.5%;
+}
+
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
 
-    font-size: 16px;
+    font-size: 2rem;
 }
 
 header{
